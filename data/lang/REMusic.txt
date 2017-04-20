@@ -1,0 +1,11 @@
+﻿[en]
+REMUSIC_ON = Round end sounds have been !tturned ON!n.
+REMUSIC_OFF = Round end sounds have been !tturned OFF!n.
+
+[mk]
+REMUSIC_ON = Zvucite vo krajot na rundata se !tvklucheni!n.
+REMUSIC_OFF = Zvucite vo krajot na rundata se !tisklucheni!n.
+
+[bg]
+REMUSIC_ON = Zvucite vo kraq na runda se !tvkliucheni!n.
+REMUSIC_OFF = Zvucite vo kraq na runda se !tizkliucheni!n.
