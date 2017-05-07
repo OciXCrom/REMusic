@@ -9,3 +9,7 @@ REMUSIC_OFF = Zvucite vo krajot na rundata se !tisklucheni!n.
 [bg]
 REMUSIC_ON = Zvucite vo kraq na runda se !tvkliucheni!n.
 REMUSIC_OFF = Zvucite vo kraq na runda se !tizkliucheni!n.
+
+[bp]
+REMUSIC_ON = Os sons finais redondos foram !tligados!n.
+REMUSIC_OFF = Os sons finais redondos foram !tdesligado!n.
