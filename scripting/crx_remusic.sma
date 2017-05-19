@@ -2,7 +2,7 @@
 #include <amxmisc>
 #include <nvault>
 
-#define PLUGIN_VERSION "2.3"
+#define PLUGIN_VERSION "2.3a"
 
 #if defined client_disconnected
 	#define client_disconnect client_disconnected
@@ -150,10 +150,13 @@ ReadFile()
 					ArrayPushString(g_aSounds, szData)
 					g_iMaxSounds++
 				}
-			}	
+			}
 		}
 		
 		fclose(iFilePointer)
+		
+		if(!g_iMaxSounds)
+			set_fail_state("No music files were added in the configuration file.")
 	}
 }
 
