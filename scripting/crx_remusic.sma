@@ -2,7 +2,7 @@
 #include <amxmisc>
 #include <nvault>
 
-#define PLUGIN_VERSION "2.3a"
+#define PLUGIN_VERSION "2.3.1"
 
 #if defined client_disconnected
 	#define client_disconnect client_disconnected
