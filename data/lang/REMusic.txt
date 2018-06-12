@@ -11,5 +11,5 @@ REMUSIC_ON = Zvucite vo kraq na runda se !tvkliucheni!n.
 REMUSIC_OFF = Zvucite vo kraq na runda se !tizkliucheni!n.
 
 [bp]
-REMUSIC_ON = Os sons finais redondos foram !tligados!n.
-REMUSIC_OFF = Os sons finais redondos foram !tdesligado!n.
+REMUSIC_ON = Os sons do fim do round foram !tligados!n.
+REMUSIC_OFF = Os sons do fim do round foram !tdesligado!n.
